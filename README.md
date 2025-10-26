@@ -2,12 +2,12 @@
 
 Ce dépôt contient les solutions des exercices de l'Atelier 2 en langage **C++** publie par Doha ziouani lst idai.
 
-## 📌 Informations
-- Nom : Doha
-- Module : Programmation en C++
+## Informations
+- Nom : Doha ZIOUANI
+- Module : Programmation oriente objet en C++
 - Année universitaire : 2025
 
-## 🧩 Exercices réalisés
+## Exercices réalisés
 
 | N° Exercice | Fichier          | Description |
 |------------|------------------|-------------|
